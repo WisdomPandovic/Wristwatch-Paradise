@@ -1,0 +1,113 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+.contact-section {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+}
+
+.contact-image img {
+    width: 100%;
+    height: auto; 
+}
+
+.contact-info {
+    background-color: #1A1B1D;
+    color: #547E8F;
+    display: flex;
+    gap: 20px;
+    padding: 20px 0px;
+}
+
+.color-klu{
+    background-color: #fff !important;
+    color: #EF7E5B !important;
+}
+
+.contact-info address {
+    font-style: normal;
+}
+
+.contact-info h3 {
+    margin-top: 20px;
+}
+
+.contact-info p {
+    font-size: 11px;
+    letter-spacing: 2px;
+}
+
+.color-clur{
+    background-color: #fff !important;
+    color: #EF7E5B !important;
+    border: 1px solid #EF7E5B !important;
+}
+
+.book-visit-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #1A1B1D;
+    color: #547E8F;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-top: 200px;
+    border: 1px solid #547E8F;
+}
+
+.book-visit-button:hover {
+    background-color: #0056b3;
+    color: #1A1B1D;
+}
+
+.vertical-text {
+    writing-mode: vertical-rl; 
+    text-orientation: mixed; 
+    white-space: nowrap;
+    font-size: 4em;
+}
+
+.add-1{
+    margin: 10px 0px;
+}
+
+.add-1 a{
+    text-decoration: none;
+    color: #547E8F;
+}
+
+.add-3 a{
+    text-decoration: none;
+    color: #EF7E5B !important;
+}
+
+.add-2{
+    line-height: 1.7;
+}
+
+.contact-section-2 {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+}
+
+.stay-in-touch{
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    padding: 30px 0px;
+}
+
+@media (max-width: 768px) {
+    .contact-section {
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+
+    .contact-section-2 {
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+}
