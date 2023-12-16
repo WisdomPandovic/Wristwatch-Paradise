@@ -4,7 +4,7 @@ Wristwatch Paradise is a web application for showcasing and selling luxury wrist
 
 ## Demo
 
-[Link to Live Demo](https://wristwatch-paradise.vercel.app/)
+[Live Demo](https://wristwatch-paradise.vercel.app/)
 
 ## Features
 
