@@ -1,6 +1,11 @@
 # Wristwatch Paradise
 
 Wristwatch Paradise is a web application for showcasing and selling luxury wristwatches. This app provides an immersive experience for users to explore a curated collection of steel and leather watches, learn about the company, and stay connected through newsletters. Additionally, users can get in touch with the store through the contact page.
+
+## Demo
+
+[Link to Live Demo](https://wristwatch-paradise.vercel.app/)
+
 ## Features
 
 - Browse and purchase steel and leather watches.
@@ -18,6 +23,12 @@ Wristwatch Paradise is a web application for showcasing and selling luxury wrist
 2. Open the index.html file in a web browser or host it using a static file server.
 
 3. Explore the different pages and features of the web application.
+
+## Technologies Used
+HTML5
+CSS3
+JavaScript
+jQuery
 
 ## Folder Structure
 index.html: Main HTML file
